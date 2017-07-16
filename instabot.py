@@ -4,7 +4,7 @@ from textblob.sentiments import NaiveBayesAnalyzer
 from testwrd import generate_word_cloud
 from termcolor import colored
 
-APP_ACCESS_TOKEN='4649009910.2af61a0.93e42eb4dcda4c2894d7fde2065844f2'
+APP_ACCESS_TOKEN=''
 #Token Owner : AVinstaBot.main10
 #Sandbox Users : AVinstaBot.test0, AVinstaBot.test1, AVinstaBot.test2...... AVinstaBot.test10
 
